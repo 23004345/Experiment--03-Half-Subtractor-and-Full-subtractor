@@ -33,22 +33,114 @@ Write the detailed procedure here
 
 
 ## Program:
+
+
+HALF SUBSTRACTOR:
+
+
+
+![Exp4 hs code](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/d3f27db4-d8ca-4550-b053-fdc1cd2817a1)
+
+
+
+
+
+
+FULL SUBSTRACTOR:
+
+
+
+
+
+![Exp4 fs code](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/24703ad0-beb0-402d-ab4f-5c39b66ce422)
+
+
+
+
+OUTPUT:
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: DEVESH.S
+RegisterNumber:  23004345
 */
 
-## Output:
+
 
 ## Truthtable
 
 
 
-##  RTL realization
+HALF SUBSTRACTOR:
+
+
+
+![Exp4 truthtable hs](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/a754ed5f-4c70-4d37-b1d2-1b5b3db81a2d)
+
+
+
+
+
+FULL SUBSTRACTOR:
+
+
+
+
+![Exp4 truthtable fs](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/f5b6a9ad-a414-4e5d-8035-905c73326503)
+
+
+RTL:
+
+
+HALF SUBSTRACTOR:
+
+
+
+
+
+![Exp4 hs RTL diagram](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/0f8bf771-c273-4eff-a438-9840a12b3f80)
+
+
+
+
+
+FULL SUBSTRACTOR:
+
+
+
+
+
+
+![Exp4 fs RTL diagram](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/9eef5bf4-a969-4fff-97d9-c672c7994edc)
+
 
 
 ## Timing diagram 
+
+
+
+HALF SUBSTRACTOR:
+
+
+
+![hs wave](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/fccc5299-d91b-433d-bd63-fd84fafbefcc)
+
+
+
+
+
+FULL SUBSTRACTOR:
+
+
+
+
+![fs wave](https://github.com/23004345/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/138849203/28d7404c-5553-48e0-b4fc-ff760675296b)
+
+
+
+
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
